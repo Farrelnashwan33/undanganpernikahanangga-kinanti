@@ -1,0 +1,53 @@
+.floatingContainer {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  z-index: 100;
+}
+
+.floatingBtn {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background: var(--color-surface);
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--color-border);
+  transition: all var(--transition-normal);
+  opacity: 0.8;
+}
+
+.floatingBtn:hover {
+  opacity: 1;
+  transform: scale(1.1);
+  background: var(--color-primary);
+  color: #fff;
+}
+
+.spin {
+  animation: spin 4s linear infinite;
+}
+
+.scrollBtn {
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px);
+}
+
+.scrollBtn.show {
+  opacity: 0.8;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.scrollBtn.show:hover {
+  opacity: 1;
+  transform: translateY(0) scale(1.1);
+}

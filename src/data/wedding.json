@@ -1,0 +1,141 @@
+{
+  "theme": {
+    "colors": {
+      "primary": "#d4af37",
+      "secondary": "#556b2f",
+      "accent": "#8b5a2b",
+      "background": "#fffff0",
+      "text": "#3e2723",
+      "cream": "#fffdd0",
+      "sage": "#9dc183"
+    }
+  },
+  "couple": {
+    "groom": {
+      "name": "Angga Wisesa",
+      "nickname": "Angga",
+      "father": "Bpk. Wisesa",
+      "mother": "Ibu Wisesa",
+      "instagram": "@anggawisesa",
+      "photo": "/images/pengantin/angga.png",
+      "description": "Seorang pria yang penuh tanggung jawab dan penyayang."
+    },
+    "bride": {
+      "name": "Kinanti Wirakusuma",
+      "nickname": "Kinanti",
+      "father": "Bpk. Ahmad",
+      "mother": "Ibu Nurul",
+      "instagram": "@kinantiwirakusuma",
+      "photo": "/images/pengantin/kinanti.png",
+      "description": "Seorang wanita yang lembut, penyabar, dan penuh kasih sayang."
+    }
+  },
+  "cover": {
+    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80&w=1920",
+    "date": "Minggu, 12 Desember 2026",
+    "title": "THE WEDDING OF"
+  },
+  "music": {
+    "url": "/music/wedding-music.mp3"
+  },
+  "hero": {
+    "date": "2026-12-12T08:00:00"
+  },
+  "quran": {
+    "surah": "QS Ar-Rum : 21",
+    "arabic": "وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+    "latin": "Wa min aayatihii an khalaqa lakum min anfusikum azwaajal litaskunuu ilaihaa wa ja'ala bainakum mawaddataw wa rahmah, inna fii dzaalika la'aayaatil liqaumiy yatafakkaruun.",
+    "translation": "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir."
+  },
+  "loveStory": [
+    {
+      "date": "Januari 2022",
+      "title": "Pertama Bertemu",
+      "description": "Kami pertama kali bertemu di sebuah acara reuni sekolah. Dari sapaan hangat, tumbuhlah percakapan yang tak terlupakan."
+    },
+    {
+      "date": "Maret 2023",
+      "title": "Menjalin Hubungan",
+      "description": "Setelah saling mengenal lebih dalam, kami memutuskan untuk memulai sebuah komitmen yang serius."
+    },
+    {
+      "date": "Agustus 2025",
+      "title": "Lamaran",
+      "description": "Dengan restu dari kedua keluarga besar, kami melangsungkan acara lamaran yang penuh kehangatan."
+    },
+    {
+      "date": "Desember 2026",
+      "title": "Menikah",
+      "description": "Hari yang paling kami nantikan akhirnya tiba. Kami siap mengarungi bahtera rumah tangga bersama."
+    }
+  ],
+  "events": [
+    {
+      "title": "Akad Nikah",
+      "date": "Minggu, 12 Desember 2026",
+      "time": "08:00 - 10:00 WIB",
+      "address": "Masjid Raya Pondok Indah, Jakarta Selatan",
+      "mapUrl": "https://maps.google.com"
+    },
+    {
+      "title": "Resepsi",
+      "date": "Minggu, 12 Desember 2026",
+      "time": "11:00 - 14:00 WIB",
+      "address": "Grand Ballroom Hotel Mulia Senayan, Jakarta",
+      "mapUrl": "https://maps.google.com"
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=800",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=800",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&q=80&w=800",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1532712938736-5e15ce11d4e0?auto=format&fit=crop&q=80&w=800",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&q=80&w=800",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&q=80&w=800",
+      "width": 800,
+      "height": 1000
+    }
+  ],
+  "video": {
+    "youtubeId": "jfKfPfyJRdk"
+  },
+  "gifts": {
+    "banks": [
+      {
+        "name": "BCA",
+        "account": "1234567890",
+        "holder": "Angga Wisesa"
+      },
+      {
+        "name": "Mandiri",
+        "account": "0987654321",
+        "holder": "Kinanti Wirakusuma"
+      }
+    ],
+    "address": "Jl. Sudirman No. 123, Jakarta Selatan, 12190"
+  },
+  "closing": {
+    "message": "Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu kepada kami."
+  }
+}
