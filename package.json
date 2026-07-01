@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
     "aos": "^2.3.4",
@@ -23,6 +24,7 @@
     "yet-another-react-lightbox": "^3.32.0"
   },
   "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.42.4",
     "@tailwindcss/vite": "^4.3.2",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
@@ -31,6 +33,7 @@
     "oxlint": "^1.69.0",
     "postcss": "^8.5.16",
     "tailwindcss": "^4.3.2",
-    "vite": "^8.1.0"
+    "vite": "^8.1.0",
+    "wrangler": "^4.106.0"
   }
 }
